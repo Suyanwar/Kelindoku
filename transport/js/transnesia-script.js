@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".mobile-menu-icon").click(function(){$(".transnesia-nav").slideToggle()}),$(window).resize(function(){$(window).width()>767?$(".transnesia-nav").show():$(".transnesia-nav").hide()}),$("body").bind("touchstart",function(){})});
